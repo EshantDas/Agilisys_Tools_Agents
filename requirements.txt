@@ -1,3 +1,9 @@
 langchain
 langchain_community
 python-dotenv
+langchain_openai
+numexpr
+wikipedia
+langgraph
+youtube_search
+duckduckgo-search
